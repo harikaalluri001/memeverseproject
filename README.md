@@ -1,2 +1,1 @@
-# memeverseproject
-About memes page
+MemeVerse Project 
